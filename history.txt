@@ -41,3 +41,4 @@
 2025-05-29 15:27:38 refactor tests
 2025-01-28 04:57:23 hotfix applied
 2025-08-10 22:33:54 improve UX
+2025-05-09 17:44:55 add helper function
