@@ -100,3 +100,4 @@
 2025-04-19 00:54:00 remove test code
 2025-10-15 09:44:10 merge branch
 2025-05-25 03:28:52 adjust validation rules
+2025-08-10 11:35:56 add helper function
