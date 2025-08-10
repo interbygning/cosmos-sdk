@@ -40,3 +40,4 @@
 2025-07-29 14:55:01 update README
 2025-05-29 15:27:38 refactor tests
 2025-01-28 04:57:23 hotfix applied
+2025-08-10 22:33:54 improve UX
